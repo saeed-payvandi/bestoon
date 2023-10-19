@@ -1,0 +1,10 @@
+asgiref==3.7.2
+click==8.1.7
+colorama==0.4.6
+Django==4.2.5
+Pillow==10.0.1
+sqlparse==0.4.4
+svgwrite==1.4.3
+Tree==0.2.4
+typing_extensions==4.8.0
+tzdata==2023.3
